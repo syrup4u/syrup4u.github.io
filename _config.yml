@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: jintliuuuuu@gmail.com
 description: "只是顺手记下的一些东西 | Just some random stuffs"
 keyword: "刘晋通, Syrup, 博客, 刘晋通的博客, Syrup Blog, 个人网站, 论文, 会议, paper, conference, 立直麻将, riichi mahjong, 计算机系统, computer system"
-url: "ttps://syrup4u.github.io" # your host, for absolute URL
+url: "https://syrup4u.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: syrup
+disqus_username: syrup4u
 
 # Netease settings
 netease_comment: false
