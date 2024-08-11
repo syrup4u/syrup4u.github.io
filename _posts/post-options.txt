@@ -1,0 +1,16 @@
+layout: post
+title: 主标题
+subtitle: 副标题
+date: 时间，参考格式 `2015-01-29 12:00:00`
+author: 作者
+header-img: 标题背景图
+tags: 标签项（数组形式表示）
+
+无图标题
+header-style: text
+生成目录导航
+catalog:      true
+不发布内容
+published: false
+内容语言
+lang: en
